@@ -1,0 +1,116 @@
+body {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 10pt;
+  font-weight: 300;
+}
+img {
+  height: 320px;
+  width: auto;
+}
+.jumbotron {
+  height: 250px;
+}
+footer {
+
+}
+.c-img {
+  height: 30%;
+  width: 30%;
+  margin-top: 75px;
+}
+header {
+  background-image: linear-gradient(135deg,
+    gray, black, gray, black, gray, black);
+  /*  background-image: url(/APPLE/fonts/background.jpg);*/
+  text-align: center;
+  color: lightgray;
+  position: sticky;
+  position: -webkit-sticky;
+}
+#tab-1 {
+  margin-top: -50px;
+}
+.XR {
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 30%;
+  border-top-right-radius: 25%;
+}
+nav {
+  border: none;
+  width: 100%;
+}
+.nav-item.nav-link {
+  /*font-size: 12pt; -
+  Стандартный размер шрифта*/
+  font-size: 12pt;
+  color: lightgray;
+}
+.asdewq {
+  margin-top: -50px;
+}
+.nav-item.nav-link:hover {
+  font-style: italic;
+}
+.ddlo {
+  margin-left: 100px;
+}
+/*
+hr {
+    color: blue;
+    border-color: blue;
+    background: blue;
+}
+*/
+.XR22 {
+  margin-top: -150px;
+  margin-left: 70px;
+}
+.u {
+  margin-left: -280px;
+}
+.adec {
+  margin-left: 51px;
+  font-family: -apple-system;
+  font-style: italic;
+}
+.nav-item.nav-link.active {
+  background-color:none;
+  color: lightgray;
+  text-decoration: underline;
+}
+.dt {
+  margin-left: -160px;
+}
+.nav-item.nav-link.active:hover {
+  font-style: normal;
+  cursor: default;
+}
+#tab-2 {
+  margin-left: -10px;
+  margin-top: -45px;
+}
+.qwer1 {
+  font-family: -apple-system;
+  width: 90%;
+  margin-left: 50px;
+}
+.a1 {
+  margin-bottom: -280px;
+}
+.desc-text {
+  font-style: italic;
+  margin-left: 25px;
+}
+.description-text {
+  margin-top: 30px;
+  margin-left: 125px;
+  text-align: center;
+  font-family: -apple-system;
+}
+b {
+  font-size: 15pt;
+}
+.description {
+  width: 300px;
+  text-align: left;
+}

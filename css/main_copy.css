@@ -1,0 +1,38 @@
+body{
+  /* background-image: linear-gradient(135deg, #189AB4, aquamarine, aqua);
+   */
+  background-color: ;
+  font-family: "Copperplate";
+}
+img{
+  height: 150px;
+  width: auto;
+}
+.mood_block{
+  width: 150px;
+  height: 150px;
+}
+.second_block{
+  margin-left: 37.5px;
+}
+.third_block{
+  margin-left: 37.5px;;
+}
+.about{
+  padding-left: ;
+}
+.jumbotron{
+  background-image: linear-gradient(135deg,
+    gray, black, gray, black, gray, black);
+  /*  background-image: url(/APPLE/fonts/background.jpg);*/
+  text-align: center;
+  color: lightgray;
+  position: sticky;
+  position: -webkit-sticky;
+}
+h2{
+  text-align: center;
+}
+.col-md-6{
+  margin-top: 25px;
+}
